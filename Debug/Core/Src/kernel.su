@@ -1,0 +1,8 @@
+../Core/Src/kernel.c:31:6:runThread	4	static,ignoring_inline_asm
+../Core/Src/kernel.c:35:6:osYield	4	static,ignoring_inline_asm
+../Core/Src/kernel.c:40:6:osKernelInitialize	4	static
+../Core/Src/kernel.c:52:6:osKernelStart	8	static
+../Core/Src/kernel.c:57:11:get_next_thread_stack	4	static
+../Core/Src/kernel.c:64:6:osCreateThread	24	static
+../Core/Src/kernel.c:97:6:osSched	16	static,ignoring_inline_asm
+../Core/Src/kernel.c:106:6:SVC_Handler_Main	24	static,ignoring_inline_asm
